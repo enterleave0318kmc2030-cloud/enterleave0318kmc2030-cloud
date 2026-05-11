@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is yuriko.
 
 ## 好きなものはぬいぐるみ
+特にヤドンとカワウソが好き
 
 <!--
 **enterleave0318kmc2030-cloud/enterleave0318kmc2030-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
